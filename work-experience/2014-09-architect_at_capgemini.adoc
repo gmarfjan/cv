@@ -23,8 +23,8 @@ ifeval::["{lang}" == "en"]
 Capgemini, France +
 09/2014 - 02/2015
 |
-* Work on call for offers
-* Explanation of DevOps practice
+* Work on pre-sales
+* DevOps Evengelist
 
 *Technical environment* : RedHat, Windows, .Net, Java, Docker, Packer, Puppet, Vagrant
 |===

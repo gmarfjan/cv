@@ -6,12 +6,12 @@ ifeval::["{lang}" == "fr"]
 
 |image:resources/images/desktop-solid.svg[,32,32]
 |image:resources/images/microchip-solid.svg[,32,32]
-|image:resources/images/plane-departure-solid.svg[,32,32]
 |image:resources/images/tools-solid.svg[,32,32]
+|image:resources/images/plane-departure-solid.svg[,32,32]
 
 |Hightech
 |Electronique
-|Voyage
+|Voyages
 |Bricolage
 
 |===
@@ -25,12 +25,12 @@ ifeval::["{lang}" == "en"]
 
 |image:resources/images/desktop-solid.svg[,32,32]
 |image:resources/images/microchip-solid.svg[,32,32]
-|image:resources/images/plane-departure-solid.svg[,32,32]
 |image:resources/images/tools-solid.svg[,32,32]
+|image:resources/images/plane-departure-solid.svg[,32,32]
 
 |Hightech
 |Electronic
-|Travel
+|Travels
 |DIY
 
 |===

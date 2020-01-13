@@ -8,7 +8,7 @@ GrDF, France (gaz) +
 08/2013 - 08/2014 +
 Via Capgemini
 |
-* Définition des besoins (serveurs, réseau, PC)
+* Définition des besoins (serveurs, réseaux, PC)
 * Appel d'offre pour acquisition de matériel
 * Définitions des environnements dans un contexte "site sûr"
 * Support auprès des équipes de développement et d'administration système
@@ -28,8 +28,8 @@ GrDF, France (Utilities) +
 08/2013 - 08/2014 +
 Through Capgemini
 |
-* Define infrastructure needs (servers, network, PC)
-* Manage call for offer for hardware
+* Define infrastructure needs (servers, networks, PC)
+* Manage pre-sales for hardware
 * Design technical environments, focused on security 
 * Support to development and system engineer teams
 * System engineer team management (3 persons)

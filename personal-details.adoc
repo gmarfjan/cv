@@ -1,3 +1,4 @@
+ifeval::["{lang}" == "fr"]
 [frame=none, cols="<25a,^75"]
 |===
 | image::resources/images/portrait-gmn.jpg[,100,100]
@@ -9,3 +10,18 @@ France
 image:resources/images/phone-solid.svg[,16,16] +33 (0)6.58.20.05.53 +
 image:resources/images/envelope-solid.svg[,16,16] mailto:gmarfjan@getyouritguy.com[gmarfjan@getyouritguy.com]
 |===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame=none, cols="<25a,^75"]
+|===
+| image::resources/images/portrait-gmn.jpg[,100,100]
+| MARFJAN Gregory +
+38 rue louis Bleriot +
+59840 Perenchies +
+France
+
+image:resources/images/phone-solid.svg[,16,16] +33 658-200-553 +
+image:resources/images/envelope-solid.svg[,16,16] mailto:gmarfjan@getyouritguy.com[gmarfjan@getyouritguy.com]
+|===
+endif::[]

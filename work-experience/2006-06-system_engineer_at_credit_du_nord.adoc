@@ -8,10 +8,10 @@ Crédit du Nord, France (Banque) +
 06/2006 - 03/2007 +
 Via Altran
 |
-* Administration des serveurs de production
-* Réalisation d'outils
-* Gestion de projet de projets techniques
-* Monitoring de production
+* Gestion de serveurs
+* Réalisation d'outils technique
+* Gestion de projet techniques
+* Monitoring
 
 *Environnement technique* : AIX, HP-UX, BEA WebLogic, Oracle 9i, BMC Patrol
 |===
@@ -27,10 +27,10 @@ Crédit du Nord, France (Bank) +
 06/2006 - 03/2007 +
 Through Altran
 |
-* Production servers administration
+* Servers management
 * Tools development
 * Technical project management
-* Production monitoring
+* Monitoring
 
 *Technical environment* : AIX, HP-UX, BEA WebLogic, Oracle 9i, BMC Patrol
 |===
