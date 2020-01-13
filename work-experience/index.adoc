@@ -19,8 +19,6 @@ include::2012-10-architect_at_la_redoute.adoc[]
 '''
 include::2011-09-architect_at_lyonnaise_des_eaux.adoc[]
 '''
-include::2011-09-project_manager_at_capgemini.adoc[]
-'''
 include::2010-02-software_integrator_at_vauban_humanis.adoc[]
 '''
 include::2009-02-architect_at_altran.adoc[]
@@ -34,5 +32,3 @@ include::2004-01-system_engineer_at_auchan.adoc[]
 include::2001-05-software_integrator_at_auchan.adoc[]
 '''
 include::1998-12-software_engineer_at_auchan.adoc[]
-'''
-include::1998-09-software_engineer_at_covefi.adoc[]
