@@ -1,0 +1,39 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Ingénieur Système* +
+Auchan, France (Retail) +
+01/2004 - 05/2006 +
+Via Altran
+|
+* Gestion des serveurs
+* Réalisation d’outils d’automatisation
+* Gestion de projets techniques
+* Gestion des recettes
+* Assistance aux équipes de développement, intégration, qualification et production
+
+*Environnement technique* : AIX, Oracle, BEA Tuxedo, Nagios, IBM TSM, Windows
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*System Engineer* +
+Auchan, France (Retail) +
+01/2004 - 05/2006 +
+Through Altran
+|
+* Servers management
+* Automation tools development
+* Technical project management
+* QA platform management
+* Support to Development, Integrator, QA and production teams
+
+*Technical environment* : AIX, Oracle, BEA Tuxedo, Nagios, IBM TSM, Windows
+|===
+endif::[]

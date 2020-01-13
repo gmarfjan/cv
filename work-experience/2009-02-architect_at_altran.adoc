@@ -1,0 +1,33 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Architecte Technique* +
+Altran, France +
+02/2009 - 01/2010
+|
+* Infrastructure pour accueillir des projets
+* Méthodologie de gestion de projet technique
+* Migration d'un site en .Net/Windows vers .Net/Linux
+
+*Environnement technique* : AIX, Debian, JBoss, Subversion, Oracle, PostgreSQL, MySQL, .Net
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical Architect* +
+Altran, France +
+02/2009 - 01/2010
+|
+* Infrastructure design for incoming projects
+* Methodology of technical project management
+* Website migration from .Net/Windows to .Net/Linux
+
+*Technical environment* : AIX, Debian, JBoss, Subversion, Oracle, PostgreSQL, MySQL, .Net
+|===
+endif::[]

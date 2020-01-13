@@ -1,0 +1,41 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Coordinateur Technique* +
+ADEO, France (Retail) +
+01/2016 - 11/2018 +
+Freelance
+|
+* Gestion d’un vCloud
+* Définition des architectures du développement à la production
+* Accompagnement des équipes de développement, test et d'exploitation (CI/CD)
+* Référent technique
+* Coordination entre le projet et le reste de la DSI
+* Contexte international : Brésil, Espagne, Russie, Ukraine
+
+*Environnement technique* : Linux (CentOs/RHEL, Debian), Rancher, Docker, Nexus, Jenkins, GitHub/GitLab, Node.js, CouchBase, ElasticSearch, PostgreSQL, VmWare vCenter, Google Cloud Platform (GCP), Graylog, Prometheus, Traefik
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical coordinator* +
+ADEO, France (Retail) +
+01/2016 - 11/2018 +
+Freelance
+|
+* vCloud management
+* Architecture design from development to production
+* Support to development, QA and production teams (CI/CD)
+* Technical expert
+* Coordination between this project and the others teams
+* International context: Brazil, Spain, Russia, Ukraine
+
+*Technical environment* : Linux (CentOs/RHEL, Debian), Rancher, Docker, Nexus, Jenkins, GitHub/GitLab, Node.js, CouchBase, ElasticSearch, PostgreSQL, VmWare vCenter, Google Cloud Platform (GCP), Graylog, Prometheus, Traefik
+|===
+endif::[]

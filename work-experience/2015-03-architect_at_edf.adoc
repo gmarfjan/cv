@@ -1,0 +1,33 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Architecte Technique* +
+EDF, France (électricité) +
+03/2015 - 07/2015 +
+Via Capgemini
+|
+* Amélioration continue de l’architecture (montée en charge et volumétrie)
+* Amélioration continue du développement (CI/CD)
+
+*Environnement technique* : Linux (RHEL), AIX, Oracle DB, Weblogic, Java, Nexus, Jenkins, Subversion, Oracle Utilities Application Framework (OUAF), Oracle Customers Care and Billing (CCnB)
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical Architect* +
+EDF, France (Utilities) +
+03/2015 - 07/2015 +
+Through Capgemini
+|
+* Architecture continous improvement (scalability and volume)
+* Software continous improvement (CI/CD)
+
+*Technical environment* : Linux (RHEL), AIX, Oracle DB, Weblogic, Java, Nexus, Jenkins, Subversion, Oracle Utilities Application Framework (OUAF), Oracle Customers Care and Billing (CCnB)
+|===
+endif::[]

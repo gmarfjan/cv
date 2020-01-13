@@ -1,0 +1,41 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Ingénieur Système* +
+Publicis ETO (Marketing), France +
+07/2007 - 01/2009 +
+Via Altran
+|
+* Architecture technique
+* Mise en place d'outils d'aide au développement
+* Tests de montée en charge
+* Automatisation du déploiement
+* Gestion des incidents
+* Coordination des équipes techniques
+
+*Environnement technique* : Windows, IIS, SQL Server, C#, ASP .Net, Team Foundation Server, Visual Studio
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*System Engineer* +
+Publicis ETO (Marketing), France +
+07/2007 - 01/2009 +
+Through Altran
+|
+* Technical architecture design
+* Development tools set up
+* Load tests writing and execution
+* Deployment process automation
+* Production issues management
+* Coordination of technical teams
+
+*Technical environment* : Windows, IIS, SQL Server, C#, ASP .Net, Team Foundation Server, Visual Studio
+|===
+endif::[]

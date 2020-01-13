@@ -1,0 +1,15 @@
+ifeval::["{lang}" == "fr"]
+== Formation
+
+* 1999 : Licence & Maitrise Informatique, Université de Lille (FR)
+* 1995 : Erasmus, Université de Breda (NL)
+* 1995 : DUT Informatique, Université de Lille (FR)
+endif::[]
+
+ifeval::["{lang}" == "en"]
+== Education
+
+* 1999 : Licence & Master (M1) in Computer science, University of Lille (FR)
+* 1995 : Erasmus, University of Breda (NL)
+* 1995 : Diploma in Computer science (2 years post baccalaureate), University of Lille (FR)
+endif::[]

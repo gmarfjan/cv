@@ -1,0 +1,39 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Architecte Technique* +
+GrDF, France (gaz) +
+08/2013 - 08/2014 +
+Via Capgemini
+|
+* Définition des besoins (serveurs, réseau, PC)
+* Appel d'offre pour acquisition de matériel
+* Définitions des environnements dans un contexte "site sûr"
+* Support auprès des équipes de développement et d'administration système
+* Gestion d'une équipe d'ingénieur système (3 personnes)
+
+*Environnement technique* : Linux (RHEL), Solaris, Oracle DB, Weblogic, Tomcat, Nexus, Jenkins, Subversion, Oracle MDM, Oracle Utilities Application Framework (OUAF)
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical Architect* +
+GrDF, France (Utilities) +
+08/2013 - 08/2014 +
+Through Capgemini
+|
+* Define infrastructure needs (servers, network, PC)
+* Manage call for offer for hardware
+* Design technical environments, focused on security 
+* Support to development and system engineer teams
+* System engineer team management (3 persons)
+
+*Technical environment* : Linux (RHEL), Solaris, Oracle DB, Weblogic, Tomcat, Nexus, Jenkins, Subversion, Oracle MDM, Oracle Utilities Application Framework (OUAF)
+|===
+endif::[]

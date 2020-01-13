@@ -1,0 +1,23 @@
+:icons: font
+:experimental:
+//:iconfont-cdn: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+
+:lang: fr
+
+// Personal-details
+include::personal-details.adoc[]
+
+// Profile
+include::profile.adoc[]
+
+// Professional experiences
+include::work-experience/index.adoc[]
+
+// Education
+include::education.adoc[]
+
+// Languages
+include::languages.adoc[]
+
+// Hobbies
+include::hobbies.adoc[]

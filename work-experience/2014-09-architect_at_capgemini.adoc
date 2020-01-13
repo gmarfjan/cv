@@ -1,0 +1,31 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Architecte Technique* +
+Capgemini, France +
+09/2014 - 02/2015
+|
+* Participation aux appels d'offres
+* Diffusion de la démarche DevOps
+
+*Environnement technique* : RedHat, Windows, .Net, Java, Docker, Packer, Puppet, Vagrant
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical Architect* +
+Capgemini, France +
+09/2014 - 02/2015
+|
+* Work on call for offers
+* Explanation of DevOps practice
+
+*Technical environment* : RedHat, Windows, .Net, Java, Docker, Packer, Puppet, Vagrant
+|===
+endif::[]

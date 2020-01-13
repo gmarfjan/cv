@@ -1,0 +1,35 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Intégrateur Applicatif* +
+Auchan, France (Retail) +
+05/2001 - 12/2003 +
+Via Altran
+|
+* Intégration d'applications et rédaction des procédures de déploiement
+* Migration des composants techniques et applicatifs
+* Assistance aux équipes de qualification et production
+
+*Environnement technique* : AIX, Oracle, BEA Tuxedo, Nagios, IBM TSM, Windows, PowerBuilder
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Software Integrator* +
+Auchan, France (Retail) +
+05/2001 - 12/2003 +
+Through Altran
+|
+* Integration of applications and write go live process
+* Technical and applicative components upgrade
+* Support to QA and production teams
+
+*Technical environment* : AIX, Oracle, BEA Tuxedo, Nagios, IBM TSM, Windows, PowerBuilder
+|===
+endif::[]

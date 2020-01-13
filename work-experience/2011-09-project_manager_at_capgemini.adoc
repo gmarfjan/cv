@@ -1,0 +1,31 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Chef de projet* +
+Capgemini, France +
+09/2011 - 12/2011
+|
+* Planification d'un projet de migration d'un ESX
+* Support des incidents
+
+*Environnement technique* : VMWare, Windows, Linux, Oracle Database
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Project manager* +
+Capgemini, France +
+09/2011 - 12/2011
+|
+* ESX migration project management
+* Support for issues
+
+*Technical environment* : VMWare, Windows, Linux, Oracle Database
+|===
+endif::[]

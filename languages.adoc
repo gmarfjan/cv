@@ -1,0 +1,13 @@
+ifeval::["{lang}" == "fr"]
+== Langues
+
+* Français: langue maternelle
+* Anglais: professionnel
+endif::[]
+
+ifeval::["{lang}" == "en"]
+== Languages
+
+* French: mother tongue
+* English: professional
+endif::[]

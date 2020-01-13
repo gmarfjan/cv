@@ -1,0 +1,8 @@
+= Curriculum Vitae
+
+== How to build
+
+[source, shell]
+----
+./build.sh
+----

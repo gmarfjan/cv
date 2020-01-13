@@ -1,0 +1,35 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Intégrateur Applicatif - Coordinateur* +
+02/2010 - 08/2011 +
+Vauban Humanis, France (Assurance) +
+Via Altran
+|
+* Automatisation des déploiements
+* Gestion des incidents
+* Coordination des équipes techniques
+
+*Environnement technique* : RedHat, JBoss, Tomcat, Maven, Subversion, Hudson, Nexus
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Software Integrator - Coordinator* +
+02/2010 - 08/2011 +
+Vauban Humanis, France (Insurance) +
+Through Altran
+|
+* Deployment process automation
+* Issues management
+* Coordination of technical teams
+
+*Technical environment* : RedHat, JBoss, Tomcat, Maven, Subversion, Hudson, Nexus
+|===
+endif::[]

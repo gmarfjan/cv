@@ -1,0 +1,35 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Leader Technique* +
+OUI.sncf, France (Transport) +
+02/2019 - 12/2019 +
+Freelance
+|
+* Automatisation des déploiements dans Kubernetes
+* Migration de Jenkins vers Gitlab-ci
+* Mise en place d'un API Management (https://gravitee.io/)
+
+*Environnement technique* : Linux, Docker, Kubernetes, GitLab, Python, ReactJS, MySQL, MongoDB, ElasticSearch, Gravitee.io (APIM), API
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical Leader* +
+OUI.sncf, France (Transportation) +
+02/2019 - 12/2019 +
+Freelance
+|
+* Deployment process automation to Kubernetes
+* Migration from Jenkins to Gitlab-ci
+* Set up an API Management (https://gravitee.io/)
+
+*Technical environment* : Linux, Docker, Kubernetes, GitLab, Python, ReactJS, MySQL, MongoDB, ElasticSearch, Gravitee.io (APIM), API
+|===
+endif::[]

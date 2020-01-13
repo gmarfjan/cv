@@ -1,0 +1,37 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Architecte Technique* +
+Lyonnaise des eaux, France (Eau) +
+09/2011 - 11/2012 +
+Via Capgemini
+|
+* Définition et mise en place des environnements
+* Définition et mise en place d’une intégration continue
+* Automatisation du packaging et du déploiement
+* Support à l’équipe d'ingénieurie système
+
+*Environnement technique* : AIX, Windows, Oracle Database, ODI, SQLServer, Reporting Services, Oracle Utilities Application Framework (OUAF), Oracle Customers Care and Billing (CCnB), Weblogic, SVN (Subversion), Tomcat, Jenkins, Sonar, Nexus, Maven, MySQL
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical Architect* +
+Lyonnaise des eaux, France (Utilities) +
+09/2011 - 11/2012 +
+Through Capgemini
+|
+* Environments design and set up
+* Continous integration design and set up
+* Packaging and deployment process automation
+* Support to system engineer team
+
+*Technical environment* : AIX, Windows, Oracle Database, ODI, SQLServer, Reporting Services, Oracle Utilities Application Framework (OUAF), Oracle Customers Care and Billing (CCnB), Weblogic, SVN (Subversion), Tomcat, Jenkins, Sonar, Nexus, Maven, MySQL
+|===
+endif::[]

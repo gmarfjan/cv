@@ -1,0 +1,11 @@
+[frame=none, cols="<25a,^75"]
+|===
+| image::resources/images/portrait-gmn.jpg[,100,100]
+| MARFJAN Grégory +
+38 rue louis Blériot +
+59840 Pérenchies +
+France
+
+image:resources/images/phone-solid.svg[,16,16] +33 (0)6.58.20.05.53 +
+image:resources/images/envelope-solid.svg[,16,16] mailto:gmarfjan@getyouritguy.com[gmarfjan@getyouritguy.com]
+|===

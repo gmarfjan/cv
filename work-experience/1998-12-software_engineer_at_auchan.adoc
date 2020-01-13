@@ -1,0 +1,37 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Ingénieur Développement* +
+Auchan, France (Retail) +
+12/1998 - 04/2001 +
+Via Wyniwyg
+|
+* Traitements batch de migration de données
+* Optimisation de code
+* Developement d'interfaces utilisateur
+* Maintenance applicative, hotfixing, déploiement
+
+*Environnement technique* : AIX, Oracle, BEA Tuxedo, Windows, PowerBuilder, C/Pro*C
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Software Engineer* +
+Auchan, France (Retail) +
+12/1998 - 04/2001 +
+Through Wyniwyg
+|
+* Data migration batch software development
+* Code optimization
+* User interfaces development
+* Application management, hotfixing, deployment
+
+*Technical environment* : AIX, Oracle, BEA Tuxedo, Windows, PowerBuilder, C/Pro*C
+|===
+endif::[]

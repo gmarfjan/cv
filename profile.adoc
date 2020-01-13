@@ -1,0 +1,13 @@
+ifeval::["{lang}" == "fr"]
+== Profil
+Mes différentes missions m'ont amenés à explorer des domaines variés, du développement à l'administration système.
+Chacune d'elles ont contribués à élargir mes compétences et ma compréhension d'un système d'information.
+Toujours aussi passionné par mon métier et convaincu par la démarche DevOps, je m'interesse à la qualité des livrables et de leurs déploiements (CI/CD). 
+endif::[]
+
+ifeval::["{lang}" == "en"]
+== Profile
+During my work experiences, I had to explore differents domains, from development to system administration.
+Each of them had enlarge my skills and my understanding of what is an whole Information system.
+Still as passionate about my job and convinced about DevOps spirit, I focus on software quality and deployments (CI/CD).
+endif::[]

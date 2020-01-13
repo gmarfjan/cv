@@ -1,0 +1,37 @@
+ifeval::["{lang}" == "fr"]
+== Hobbies
+
+[frame="none", grid="non", cols="4*^"]
+|===
+
+|image:resources/images/desktop-solid.svg[,32,32]
+|image:resources/images/microchip-solid.svg[,32,32]
+|image:resources/images/plane-departure-solid.svg[,32,32]
+|image:resources/images/tools-solid.svg[,32,32]
+
+|Hightech
+|Electronique
+|Voyage
+|Bricolage
+
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+== Hobbies
+
+[frame="none", grid="non", cols="4*^"]
+|===
+
+|image:resources/images/desktop-solid.svg[,32,32]
+|image:resources/images/microchip-solid.svg[,32,32]
+|image:resources/images/plane-departure-solid.svg[,32,32]
+|image:resources/images/tools-solid.svg[,32,32]
+
+|Hightech
+|Electronic
+|Travel
+|DIY
+
+|===
+endif::[]

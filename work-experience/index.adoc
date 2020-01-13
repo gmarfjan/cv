@@ -1,0 +1,38 @@
+ifeval::["{lang}" == "fr"]
+== Expériences
+endif::[]
+ifeval::["{lang}" == "en"]
+== Work experiences
+endif::[]
+'''
+include::2019-02-technical_leader_at_oui.adoc[]
+'''
+include::2016-01-technical_coordinator_at_adeo.adoc[]
+'''
+include::2015-03-architect_at_edf.adoc[]
+'''
+include::2014-09-architect_at_capgemini.adoc[]
+'''
+include::2013-08-architect_at_grdf.adoc[]
+'''
+include::2012-10-architect_at_la_redoute.adoc[]
+'''
+include::2011-09-architect_at_lyonnaise_des_eaux.adoc[]
+'''
+include::2011-09-project_manager_at_capgemini.adoc[]
+'''
+include::2010-02-software_integrator_at_vauban_humanis.adoc[]
+'''
+include::2009-02-architect_at_altran.adoc[]
+'''
+include::2007-07-system_engineer_at_eto.adoc[]
+'''
+include::2006-06-system_engineer_at_credit_du_nord.adoc[]
+'''
+include::2004-01-system_engineer_at_auchan.adoc[]
+'''
+include::2001-05-software_integrator_at_auchan.adoc[]
+'''
+include::1998-12-software_engineer_at_auchan.adoc[]
+'''
+include::1998-09-software_engineer_at_covefi.adoc[]

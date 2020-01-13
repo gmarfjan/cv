@@ -1,0 +1,37 @@
+ifeval::["{lang}" == "fr"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Architecte Technique* +
+La Redoute, France (ecommerce) +
+10/2012 - 08/2013 +
+Via Capgemini
+|
+* Transfert de connaissance de Redcats USA (NYC) vers les équipes Capgemini (Lille)
+* Cartographie des flux et des données
+* Amélioration continue de l’architecture (montée en charge et volumétrie)
+* Gestion d'une équipe de DBA (3 personnes en Inde et 1 en France)
+
+*Environnement technique* : Windows, SQLServer, Integration services (SSIS), Control-M, ASP.Net, C#, TFS
+|===
+endif::[]
+
+ifeval::["{lang}" == "en"]
+[frame="none", cols="<25a,<75a"]
+|===
+
+|
+*Technical Architect* +
+La Redoute, France (ecommerce) +
+10/2012 - 08/2013 +
+Through Capgemini
+|
+* Knowledge transfert from Redcats USA (NYC) to Capgemini (Lille)
+* Flow and data mapping
+* Architecture continous improvement (scalability and volume)
+* DBA team management (3 members in India and 1 in France)
+
+*Technical environment* : Windows, SQLServer, Integration services (SSIS), Control-M, ASP.Net, C#, TFS
+|===
+endif::[]

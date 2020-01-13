@@ -1,0 +1,11 @@
+extends: default
+base:
+  font:
+    size: 10
+page:
+  layout: portrait
+  size: A4
+table:
+  background-color: #ffffff
+  body:
+    stripe-background-color: #ffffff
